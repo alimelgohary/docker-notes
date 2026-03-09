@@ -35,3 +35,7 @@ This material is intended for:
 * Engineers exploring **DevOps practices**
 * Anyone looking to understand **container-based architectures**
 
+---
+
+> [!note]
+> This content is best viewed using [Obsidian](https://obsidian.md).
